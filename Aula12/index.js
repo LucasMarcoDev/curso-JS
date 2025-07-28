@@ -1,0 +1,1 @@
+// atribuiçao via dessestruturaçao com simbolos
