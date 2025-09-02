@@ -11,3 +11,4 @@ function retornaFuncao(){
 
 const funcao = retornaFuncao()
 console.dir(funcao);
+
